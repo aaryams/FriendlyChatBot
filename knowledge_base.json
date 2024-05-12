@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hello"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm fine!! What about You?"
+    },
+    {
+      "question": "hai",
+      "answer": "hai"
+    },
+    {
+      "question": "Good Morning",
+      "answer": "Good Morning!!"
+    },
+    {
+      "question": "how old are you",
+      "answer": "1 year old"
+    },
+    {
+      "question": "how you doing",
+      "answer": "Good!!How about you?"
+    },
+    {
+      "question": "fine",
+      "answer": "Happy to hear that!!!"
+    },
+    {
+      "question": "Tell me about yourself",
+      "answer": "I'm Mittu!!A friendly chatbot:)"
+    },
+    {
+      "question": "mittu",
+      "answer": "Mittu is here for you My friend"
+    },
+    {
+      "question": "bye",
+      "answer": "Bye my friend.Be happy and stay healthy"
+    }
+  ]
+}
